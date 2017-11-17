@@ -1,0 +1,13 @@
+.name {
+	background: red;
+}
+
+.image {
+	border-style: solid;
+	border-color: blue;
+	border-width: 5px;
+}
+
+body {
+	background: yellow;
+}
